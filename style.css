@@ -19,3 +19,14 @@ body {
   display: grid;
   place-content: center;
 }
+
+section {
+  background: black;
+  width: 100vw;
+  height: 100hw;
+  top: 0;
+  inset: 0;
+  display: grid;
+  font-size: 48px;
+  place-content: center;
+}
